@@ -11,7 +11,7 @@
 ## Student, Volunteer, Web Developer
 <hr/>
 
-I am currently finishing my applied computer science studies at the University of Montenegro and should be getting my bachelor's degree sometime in July 2021. Currently doing a paid internship at a Montenegrin developers community, [DevClub](https://www.linkedin.com/company/devclubme/). I also enjoy volunteer work in student organisation such as [AIESEC](https://www.linkedin.com/company/aiesec-in-montenegro/mycompany/). I work on improving my ReactJS skills on a daily basis.
+I am currently finishing my applied computer science studies at the University of Montenegro and should be getting my bachelor's degree sometime in July 2021. Currently doing a paid internship at a Montenegrin developers community, [DevClub](https://www.linkedin.com/company/devclubme/). I also enjoy volunteer work in student organisations such as [AIESEC](https://www.linkedin.com/company/aiesec-in-montenegro/mycompany/). I work on improving my ReactJS skills on a daily basis.
 
 ## My learning journey
 <hr/>
