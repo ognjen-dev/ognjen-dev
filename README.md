@@ -9,12 +9,10 @@
 - ⚡ Fun fact: I enjoy editing videos and creating visual content aside from working as a web developer, and I'm good at playing pool :D
 
 ## Student, Volunteer, Web Developer
-<hr/>
 
 I am currently finishing my applied computer science studies at the University of Montenegro and should be getting my bachelor's degree sometime in July 2021. Currently doing a paid internship at a Montenegrin developers community, [DevClub](https://www.linkedin.com/company/devclubme/). I also enjoy volunteer work in student organisations such as [AIESEC](https://www.linkedin.com/company/aiesec-in-montenegro/mycompany/). I work on improving my ReactJS skills on a daily basis.
 
 ## My learning journey
-<hr/>
 
  Courses I have finished:<br/>
  - [The Complete JavaScript Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
@@ -24,7 +22,6 @@ I am currently finishing my applied computer science studies at the University o
 
 
 ## My skills
-<hr/>
 
  - Soft-Skills: Creativity, Patience, Teamwork, Communication
  - Languages: Javascript, Python, MarkDown
