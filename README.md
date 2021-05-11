@@ -1,6 +1,6 @@
 # Hi, I'm Ognjen Vukotić. I also go by ognjen-dev 👋
 
-- 🔭 I’m currently working on a React Serverless app as well as making my portfolio website.
+- 🔭 I’m currently working on a React Serverless app as on improving my portfolio website.
 - 🌱 I’m currently learning aws and Next.js.
 - 👯 I’m looking to collaborate on open-source projects and projects that will make me a better developer.
 - 💬 Ask me about front-end developement, git, graphic design and video editing.
