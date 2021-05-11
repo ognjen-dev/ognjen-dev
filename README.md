@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a React Serverless app as on improving my portfolio website.
 - 🌱 I’m currently learning aws and Next.js.
-- 👯 I’m looking to collaborate on open-source projects and projects that will make me a better developer.
+- 👯 I’m looking to collaborate on open-source projects and projects that will make me a better developer and to make projects that solve real problems.
 - 💬 Ask me about front-end developement, git, graphic design and video editing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ognjen-dev/) or [Twitter](https://twitter.com/devognjen)
 - 😄 Pronouns: He/Him
