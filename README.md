@@ -1,16 +1,16 @@
 # Hi, I'm Ognjen Vukotić. I also go by ognjen-dev 👋
 
-- 🔭 I’m currently working on a React Serverless app.
-- 🌱 I’m currently learning aws and Next.js.
+- 🔭 I’m currently working on an overengineered Blog using React and [json-server](https://github.com/typicode/json-server).
+- 🌱 I’m currently learning AWS and Next.js.
 - 👯 I’m looking to collaborate on open-source projects and projects that will make me a better developer and to make projects that solve real problems.
-- 💬 Ask me about front-end developement, git, graphic design and video editing.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ognjen-dev/) or [Twitter](https://twitter.com/devognjen)
+- 💬 Ask me about web development developement, CSS, git, graphic design and video editing.
+- 📫 How to reach me: [My Personal Website](https://ognjen-dev.com/) or [LinkedIn](https://www.linkedin.com/in/ognjen-dev/) or [Twitter](https://twitter.com/devognjen)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy editing videos and creating visual content aside from working as a web developer, and I'm good at playing pool :D
+- ⚡ Fun fact: I enjoy editing videos and creating visual content aside from working as a web developer, and I'm good at playing tennis :D
 
-## Student, Volunteer, Web Developer
+## Web Developer, Volunteer
 
-I am currently finishing my applied computer science studies at the University of Montenegro and should be getting my bachelor's degree sometime in July 2021. Currently doing a paid internship at a Montenegrin developers community, [DevClub](https://www.linkedin.com/company/devclubme/). I also enjoy volunteer work in student organisations such as [AIESEC](https://www.linkedin.com/company/aiesec-in-montenegro/mycompany/). I work on improving my ReactJS skills on a daily basis.
+I got my bachelor's degree in Applied Computer Science Studies from The University of Montenegro. Currently I am working as a freelancer but I am openly looking for employment. I also work on improving my programming and coding skills on a daily basis. Other than that I really enjoy to do volunteer and to work on SDG-s which I was really introduced trough my involment with [AIESEC](https://aiesec.org/) as a student.
 
 ## My learning journey
 
