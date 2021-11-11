@@ -1,9 +1,9 @@
 # Hi, I'm Ognjen Vukotić. I also go by ognjen-dev 👋
 
-- 🔭 I’m currently working on an overengineered Blog using React and [json-server](https://github.com/typicode/json-server).
-- 🌱 I’m currently learning AWS and Next.js.
-- 👯 I’m looking to collaborate on open-source projects and projects that will make me a better developer and to make projects that solve real problems.
-- 💬 Ask me about web development developement, CSS, git, graphic design and video editing.
+- 🔭 I’m currently working on an overengineered Blog using React, Tailwind and [json-server](https://github.com/typicode/json-server).
+- 🌱 I’m currently reading the latest edition of the [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) book, to expand and renew my vanilla JS knowledge.
+- 👯 I’m looking to collaborate on open-source projects and projects that will make me a better developer and to make projects that solve real world problems.
+- 💬 Ask me about web JavaScript, React, CSS, graphic design and video editing.
 - 📫 How to reach me: [My Personal Website](https://ognjen-dev.com/) or [LinkedIn](https://www.linkedin.com/in/ognjen-dev/) or [Twitter](https://twitter.com/devognjen)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy editing videos and creating visual content aside from working as a web developer, and I'm good at playing tennis :D
@@ -25,7 +25,7 @@ I got my bachelor's degree in Applied Computer Science Studies from The Universi
 
  - Soft-Skills: Creativity, Patience, Teamwork, Communication
  - Languages: Javascript, Python, MarkDown
- - Frameworks: ReactJS, Tailwind, GatsbyJS
+ - Frameworks: ReactJS, Tailwind, Next.js
  - Version Control: Git, GitHub
   <br/>
   <br/>
