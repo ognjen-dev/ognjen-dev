@@ -1,36 +1,28 @@
-# Hi, I'm Ognjen Vukotić. I also go by ognjen-dev 👋
+# Hi, I'm Ognjen — ognjen-dev 👋
 
-- 🔭 I’m currently working on an overengineered Blog using React, Tailwind and [json-server](https://github.com/typicode/json-server).
-- 🌱 I’m currently reading the latest edition of the [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) book, to expand and renew my vanilla JS knowledge.
-- 👯 I’m looking to collaborate on open-source projects and projects that will make me a better developer and to make projects that solve real world problems.
-- 💬 Ask me about web JavaScript, React, CSS, graphic design and video editing.
-- 📫 How to reach me: [My Personal Website](https://ognjen-dev.com/) or [LinkedIn](https://www.linkedin.com/in/ognjen-dev/) or [Twitter](https://twitter.com/devognjen)
+Full-Stack Developer building products end-to-end with Next.js, TypeScript and Supabase. I freelance on the side and care about shipping things that solve real problems.
+
+- 🔭 Currently building a SaaS app (Next.js · TypeScript · Supabase)
+- 💼 Employed as a solo dev handling both frontend and backend
+- 👯 Open to collaborating on meaningful open-source projects
+- 💬 Ask me about React, Next.js, TypeScript, Supabase, CSS or graphic design
+- ⚡ Fun fact: I edit videos and create visual content in my spare time — and I can hold my own on a tennis court 🎾
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy editing videos and creating visual content aside from working as a web developer, and I'm good at playing tennis :D
 
-## Web Developer, Volunteer
+📫 Reach me at: [ognjen-dev.com](https://ognjen-dev.com/) · [LinkedIn](https://www.linkedin.com/in/ognjen-dev/) · [Twitter](https://twitter.com/devognjen)
 
-I got my bachelor's degree in Applied Computer Science Studies from The University of Montenegro. Currently I am working as a freelancer but I am openly looking for employment. I also work on improving my programming and coding skills on a daily basis. Other than that I really enjoy to do volunteer and to work on SDG-s which I was really introduced trough my involment with [AIESEC](https://aiesec.org/) as a student.
+---
 
-## My learning journey
+## 🛠 Skills
 
- Courses I have finished:<br/>
- - [The Complete JavaScript Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
- - [React Course by Tyler McGinnis](https://ui.dev/react/)
- - [Tailwind CSS Course by Martin Eberth](https://www.udemy.com/course/tailwindcss-with-examples/)
- - [Serverless Stack Tutorial on Building full-stack Applications](https://serverless-stack.com/)
+**Languages:** JavaScript, TypeScript, Python, Markdown  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend & DB:** Supabase, Sanity.io  
+**Version Control:** Git, GitHub  
+**Soft Skills:** Creativity, Communication, Teamwork, Patience
 
+---
 
-## My skills
+## 📊 GitHub Stats
 
- - Soft-Skills: Creativity, Patience, Teamwork, Communication
- - Languages: Javascript, Python, MarkDown
- - Frameworks: ReactJS, Tailwind, Next.js
- - Version Control: Git, GitHub
-  <br/>
-  <br/>
-
-## My GitHub Stats
-  [![ognjen-dev's github stats](https://github-readme-stats.vercel.app/api?username=ognjen-dev)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![ognjen-dev's github stats](https://github-readme-stats.vercel.app/api?username=ognjen-dev&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
