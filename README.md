@@ -1,6 +1,6 @@
 # Hi, I'm Ognjen — ognjen-dev 👋
 
-Full-Stack Developer building products end-to-end with Next.js, TypeScript and Supabase. I freelance on the side and care about shipping things that solve real problems.
+Software Developer currently building products end-to-end with Next.js, TypeScript and Supabase. I freelance on the side and care about shipping things that solve real problems.
 
 - 🔭 Currently building a SaaS app (Next.js · TypeScript · Supabase)
 - 💼 Employed as a solo dev handling both frontend and backend
